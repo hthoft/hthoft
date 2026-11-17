@@ -13,8 +13,11 @@ Maprova is a workforce and production platform for Danish manufacturers. One sys
 
 TypeScript · Next.js · React · PostgreSQL · Prisma · Redis / BullMQ · Docker · Grafana / OpenTelemetry
 
-### Background
+### Education
 
-Robotics engineering at Aalborg University (AAU). Some of my earlier projects are pinned below.
+- M.Sc. in Mechanical Engineering (Virksomhedsteknologi), Aalborg University
+- B.Sc. in Robotics, Aalborg University
+
+Some of my earlier projects are pinned below.
 
 [maprova.dk](https://maprova.dk)
