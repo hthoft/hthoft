@@ -11,13 +11,16 @@ Maprova is a workforce and production platform for Danish manufacturers. One sys
 
 ### What I work with
 
-TypeScript · Next.js · React · PostgreSQL · Prisma · Redis / BullMQ · Docker · Grafana / OpenTelemetry
+- **Software:** TypeScript · Next.js · React · PostgreSQL · Prisma · Redis / BullMQ
+- **Infrastructure and networks:** Linux servers · Docker · Ansible · VPN · Grafana / OpenTelemetry
+- **Hardware:** shop-floor screens and kiosks · RFID readers · label printers · Raspberry Pi · embedded C++
+- **Modeling:** 3D modeling and CAD · robot simulation · data modeling
 
 ### Education
 
-- M.Sc. in Mechanical Engineering (Virksomhedsteknologi), Aalborg University
+- M.Sc. in Mechanical Engineering (Manufacturing Technology), Aalborg University
 - B.Sc. in Robotics, Aalborg University
 
 Some of my earlier projects are pinned below.
 
-[maprova.dk](https://maprova.dk)
+[maprova.dk](https://maprova.dk) · [LinkedIn](https://www.linkedin.com/in/hansthoft/)
