@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e4429,50:006d32,100:39d353&text=Hans%20Thoft%20Rasmussen&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Co-founder%20%26amp%3B%20CTO%20at%20Maprova&descAlignY=58&descSize=18" alt="Hans Thoft Rasmussen, Co-founder & CTO at Maprova" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e4429,50:006d32,100:39d353&text=Hans%20Thoft%20Rasmussen&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Co-founder%20%26amp%3B%20COO%20at%20Maprova&descAlignY=58&descSize=18" alt="Hans Thoft Rasmussen, Co-founder & COO at Maprova" />
 
 <p align="center">
   <a href="https://maprova.dk"><img src="https://img.shields.io/badge/maprova.dk-0e4429?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="maprova.dk" /></a>
@@ -8,7 +8,7 @@
 
 ### About me
 
-I'm the co-founder and CTO of [Maprova](https://maprova.dk), a workforce and production platform for Danish manufacturers. One system covers:
+I'm the co-founder and COO of [Maprova](https://maprova.dk), a workforce and production platform for Danish manufacturers. One system covers:
 
 - Time and attendance, absence and payroll export
 - Production planning, jobs and quality control
